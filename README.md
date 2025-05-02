@@ -5,30 +5,26 @@ This project mimics the classic Netflix UI and is great for practicing frontend 
 
 ---
 
-## 📸 Preview
-
-> *Add a screenshot or demo GIF here if you have one!*
-
----
 
 ## 🛠️ Tech Stack
 
-- 💻 HTML5
+- 💻 HTML5  
 - 🎨 CSS3
 
 ---
 
 ## 🚀 Features
 
-- Fully responsive design
-- Modern Netflix-style UI
-- Navigation bar with logo & links
+- Fully responsive design  
+- Modern Netflix-style UI  
+- Navigation bar with logo & links  
 - Featured content layout with images
 
 ---
 
 ## 📁 Folder Structure
 
+```
 Netflix_Clone/
 ├── bannerImage.jpg
 ├── c1.png
@@ -40,7 +36,7 @@ Netflix_Clone/
 ├── netflix.css
 ├── netflix.html
 └── netflixLogo.png
-
+```
 
 ---
 
@@ -50,27 +46,37 @@ Netflix_Clone/
 
 ```bash
 git clone https://github.com/Piyush64-bit/Netflix_Clone.git
+```
 
+2. Navigate to the project folder:
+
+```bash
 cd Netflix_Clone
+```
 
-
----
-
-📚 What I Learned
-
-> Built a full static landing page using only HTML & CSS
-> Practiced layout styling using flexbox
-> Improved understanding of positioning and responsiveness
-
+3. Open `netflix.html` in your browser and enjoy the clone vibes 🍿
 
 ---
 
-🤝 Contributing
-Feel free to fork this repo and make it even better!
+## 📚 What I Learned
+
+- Built a full static landing page using only HTML & CSS  
+- Practiced layout styling using flexbox  
+- Improved understanding of positioning and responsiveness
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this repo and make it even better!  
 Pull requests are always welcome 🙌
 
+---
+
+## 📬 Contact Me
+
+- GitHub: [Piyush64-bit](https://github.com/Piyush64-bit)
 
 ---
 
-📬 Contact Me
-GitHub: Piyush64-bit
+> Made with ❤️ by Piyush – just a dev tryna make the web a cooler place 😎
