@@ -1,5 +1,6 @@
 # 🎬 Netflix Clone
 
+# HELLO
 A sleek and responsive Netflix homepage clone built with just **HTML** and **CSS**.  
 This project mimics the classic Netflix UI and is great for practicing frontend skills!
 
